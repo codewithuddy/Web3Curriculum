@@ -16,6 +16,7 @@ The content of the curriculum will not be covering resources in web2 technology,
 - Remix/ any other IDE
 
 
+[![Udoka Doc](https://drive.google.com/file/d/13lOTpykv7YhE-14ScM_ejsVy83AY4Izt/view?usp=sharing)]
 
 ## WEEK 1
 
