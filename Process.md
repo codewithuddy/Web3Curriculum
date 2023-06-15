@@ -57,6 +57,17 @@ It is believed that you understand the basics of software programming like, data
   -  [Ethers.js](https://docs.ethers.org/v5/)
   -  [Web3.js](https://web3js.readthedocs.io/en/v1.10.0/)
 - Learn to use a development environment
-  - [Hardhat]()
+  - [Hardhat](https://hardhat.org/docs)
   - [Truffle](https://trufflesuite.com/docs/)
   - [Foundry](https://book.getfoundry.sh/)
+- Learn to use decentralised storage platforms.
+   - [Arweave](https://www.arweave.org/build)
+   - [IPFS](https://docs.ipfs.tech/)
+   - [Filecoin](https://docs.filecoin.io/)
+- Learn to use other node providers, SDKs, and API services
+   - [Quicknode](https://www.quicknode.com/docs/welcome)
+   - [Graphql](https://graphql.org/code/)
+   - [Infura](https://docs.infura.io/networks/ethereum?_ga=2.117230726.1864370430.1686798949-2027956840.1659226978)
+   - [Moralis](https://docs.moralis.io/)
+   - [Chainlink](https://docs.chain.link/)
+   - [Alchemy](https://docs.alchemy.com/) 
