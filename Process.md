@@ -54,5 +54,9 @@ It is believed that you understand the basics of software programming like, data
   - [React](https://react.dev/learn)
   - [Vue](https://vuejs.org/guide/introduction.html)
 - Learn to link your Smart Contracts with the front end
-  -  [Ethers.js]()
-  -  [Web3.js]()
+  -  [Ethers.js](https://docs.ethers.org/v5/)
+  -  [Web3.js](https://web3js.readthedocs.io/en/v1.10.0/)
+- Learn to use a development environment
+  - [Hardhat]()
+  - [Truffle](https://trufflesuite.com/docs/)
+  - [Foundry](https://book.getfoundry.sh/)
