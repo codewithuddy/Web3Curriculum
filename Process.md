@@ -71,3 +71,7 @@ It is believed that you understand the basics of software programming like, data
    - [Moralis](https://docs.moralis.io/)
    - [Chainlink](https://docs.chain.link/)
    - [Alchemy](https://docs.alchemy.com/) 
+
+## WEEK 5
+
+# Now BUIDL some cool stuff on the blockchain!
