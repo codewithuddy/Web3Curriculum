@@ -49,4 +49,10 @@ It is believed that you understand the basics of software programming like, data
 - [Solidity Practice](https://codedamn.com/)
 
 ## WEEK 4
-TO be continued
+- [Create your first ERC 20 Token](https://www.quicknode.com/guides/ethereum-development/smart-contracts/how-to-create-and-deploy-an-erc20-token)
+- Learn to incorporate front-end technologies
+  - [React](https://react.dev/learn)
+  - [Vue](https://vuejs.org/guide/introduction.html)
+- Learn to link your Smart Contracts with the front end
+  -  [Ethers.js]()
+  -  [Web3.js]()
