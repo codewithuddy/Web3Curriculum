@@ -64,6 +64,8 @@ It is believed that you understand the basics of software programming like, data
    - [Arweave](https://www.arweave.org/build)
    - [IPFS](https://docs.ipfs.tech/)
    - [Filecoin](https://docs.filecoin.io/)
+   - [Bundlr Network](https://docs.bundlr.network/)
+   - [WeaveDB](https://docs.weavedb.dev/docs/intro)
 - Learn to use other node providers, SDKs, and API services
    - [Quicknode](https://www.quicknode.com/docs/welcome)
    - [Graphql](https://graphql.org/code/)
