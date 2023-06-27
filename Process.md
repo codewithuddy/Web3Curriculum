@@ -14,6 +14,7 @@ The content of the curriculum will not be covering resources in web2 technology,
 - Framework/Library e.g. React.js
 - Node.js
 - Remix/ any other IDE
+- others
 
 
 ![doc](https://pbs.twimg.com/media/FyOLdACXoAIgDAq?format=png&name=small)
