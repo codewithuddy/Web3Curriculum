@@ -15,14 +15,5 @@ contract MySmartContract {
         myVariable = 0;
     }
 
-    // Function to update the value
-    function updateValue(uint256 newValue) public {
-        myVariable = newValue;
-        emit ValueChanged(newValue);
-    }
-
-    // Function to retrieve the current value
-    function getValue() public view returns (uint256) {
-        return myVariable;
-    }
+  
 }
