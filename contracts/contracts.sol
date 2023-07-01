@@ -4,7 +4,7 @@
 pragma solidity ^0.8.0;
 
 contract MySmartContract {
-    // State variables
+    
     uint256 public myVariable;
 
     // Events
